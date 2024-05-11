@@ -59,7 +59,7 @@ int main(int _argc, char **_argv)
       {
         print_dorm_detail(drm[m]);
       }
-    }
+    }  
     else if (strcmp(token, "student-add") == 0)
     {
       sizee++;
